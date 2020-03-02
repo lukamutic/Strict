@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+
+/*
+font-family: 'Lato', sans-serif;
+400, 700
+*/
+
+
+@font-face {
+  font-family: 'Arial';
+  src:
+    url('fonts/Arial/Arial.eot?#iefix') format('embedded-opentype'),
+    url('fonts/Arial/Arial.woff') format('woff'),
+    url('fonts/Arial/Arial.ttf')  format('truetype'),
+    url('fonts/Arial/Arial.svg#Arial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
