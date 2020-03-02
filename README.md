@@ -1,0 +1,2 @@
+# Strict
+WebPage ''Strict''
